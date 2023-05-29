@@ -52,3 +52,5 @@ disableKinds = ["section", "taxonomy", "term"]
         target = "static"
     [[module.imports]]
         path = "github.com/bep/gallerydeluxe"
+
+publishDir = "docs"
